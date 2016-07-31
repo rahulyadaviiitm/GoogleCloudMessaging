@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gcm</string>
+    <string name="action_settings">Settings</string>
+    <string name="gcm_defaultSenderId">428401181451</string>
+</resources>
